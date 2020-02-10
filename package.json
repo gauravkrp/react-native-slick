@@ -1,5 +1,5 @@
 {
-  "name": "react-native-slick",
+  "name": "react-native-slick-slider",
   "keywords": [
     "react-component",
     "react-native",
@@ -46,7 +46,7 @@
     "type": "git",
     "url": "git+https://github.com/gauravkrp/react-native-slick.git"
   },
-  "author": "",
+  "author": "Gaurav Pandey",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gauravkrp/react-native-slick/issues"
@@ -62,5 +62,8 @@
   "dependencies": {
     "prop-types": "^15.5.10",
     "@react-native-community/viewpager": "^3.3.0"
+  },
+  "directories": {
+    "example": "examples"
   }
 }
