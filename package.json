@@ -3,9 +3,10 @@
   "keywords": [
     "react-component",
     "react-native",
-    "ios"
+    "ios",
+    "android"
   ],
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Slick component for React Native.",
   "main": "index.js",
   "scripts": {
@@ -43,14 +44,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmed3mar/react-native-slick.git"
+    "url": "git+https://github.com/gauravkrp/react-native-slick.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ahmed3mar/react-native-slick/issues"
+    "url": "https://github.com/gauravkrp/react-native-slick/issues"
   },
-  "homepage": "https://github.com/ahmed3mar/react-native-slick#readme",
+  "homepage": "https://github.com/gauravkrp/react-native-slick#readme",
   "devDependencies": {
     "babel-eslint": "^8.0.1",
     "rimraf": "^2.5.4",
@@ -59,6 +60,7 @@
     "updtr": "^2.0.0"
   },
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "@react-native-community/viewpager": "^3.3.0"
   }
 }

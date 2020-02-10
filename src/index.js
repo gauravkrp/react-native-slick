@@ -1,8 +1,10 @@
 /**
  * react-native-slick
  * @author leecade<leecade@163.com>
- * @author @ahmed3mar<ahmed3mar@outlook.com>
+ * @author ahmed3mar<ahmed3mar@outlook.com>
+ * @author gaurav<gaurav.golu1@gmail.com>
  */
+
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import {
@@ -12,10 +14,10 @@ import {
   ScrollView,
   Dimensions,
   TouchableOpacity,
-  ViewPagerAndroid,
   Platform,
   ActivityIndicator
 } from 'react-native'
+import ViewPagerAndroid from '@react-native-community/viewpager'
 
 /**
  * Default styles
